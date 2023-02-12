@@ -3,7 +3,6 @@
 
 Shazam to YouTube Auto-Adds Playlists.
 
-This is a Python script that reads a CSV file containing song titles and artists and automatically adds the songs to it using the YouTube API with OAuth2 authentication.
 * A Google Cloud Platform project with the YouTube Data API v3 enabled
 * OAuth2 credentials for the project
 
